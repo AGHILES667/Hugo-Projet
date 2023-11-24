@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Entreprise on Aghiles&#39;s Website</title>
+    <link>https://AGHILES667.github.io/Hugo-Projet/tags/entreprise/</link>
+    <description>Recent content in Entreprise on Aghiles&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Nov 2023 14:35:44 +0100</lastBuildDate><atom:link href="https://AGHILES667.github.io/Hugo-Projet/tags/entreprise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Découvrir HETIC</title>
+      <link>https://AGHILES667.github.io/Hugo-Projet/docs/hetic/</link>
+      <pubDate>Fri, 24 Nov 2023 14:35:44 +0100</pubDate>
+      
+      <guid>https://AGHILES667.github.io/Hugo-Projet/docs/hetic/</guid>
+      <description>HETIC est à ce jour la référence des écoles web, multimédia, numérique, informatique et délivre des titres enregistrés au RNCP. HETIC délivre 3 certifications professionnelles différentes. La formation Grande Ecole et les formations Mastères sont sanctionnées par le titre « Expert en transformation digitale et technologique » de niveau 7*. Les formations Bachelor Développeur web et Bachelor Data &amp;amp; IA sont sanctionnées par le titre « Concepteur développeur de solutions digitales » de niveau 6**.</description>
+    </item>
+    
+  </channel>
+</rss>
