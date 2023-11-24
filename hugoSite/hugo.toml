@@ -1,0 +1,15 @@
+baseURL = ''
+languageCode = 'en-us'
+title = "Aghiles's Website"
+theme = 'PaperMod'
+languagecode = "en"
+
+
+
+
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "docs/"
