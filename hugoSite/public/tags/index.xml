@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Aghiles&#39;s Website</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Aghiles&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Nov 2023 14:35:44 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ecole</title>
+      <link>/tags/ecole/</link>
+      <pubDate>Fri, 24 Nov 2023 14:35:44 +0100</pubDate>
+      
+      <guid>/tags/ecole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entreprise</title>
+      <link>/tags/entreprise/</link>
+      <pubDate>Fri, 24 Nov 2023 14:35:44 +0100</pubDate>
+      
+      <guid>/tags/entreprise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technologie</title>
+      <link>/tags/technologie/</link>
+      <pubDate>Fri, 24 Nov 2023 14:35:44 +0100</pubDate>
+      
+      <guid>/tags/technologie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>/tags/web/</link>
+      <pubDate>Fri, 24 Nov 2023 14:35:44 +0100</pubDate>
+      
+      <guid>/tags/web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
