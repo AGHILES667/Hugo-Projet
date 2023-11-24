@@ -1,47 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aghiles&#39;s Website</title>
     <link>https://AGHILES667.github.io/Hugo-Projet/tags/</link>
     <description>Recent content in Tags on Aghiles&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Nov 2023 14:35:44 +0100</lastBuildDate><atom:link href="https://AGHILES667.github.io/Hugo-Projet/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Nov 2023 14:35:44 +0100</lastBuildDate>
+    <atom:link href="https://AGHILES667.github.io/Hugo-Projet/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ecole</title>
       <link>https://AGHILES667.github.io/Hugo-Projet/tags/ecole/</link>
       <pubDate>Fri, 24 Nov 2023 14:35:44 +0100</pubDate>
-      
       <guid>https://AGHILES667.github.io/Hugo-Projet/tags/ecole/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Entreprise</title>
       <link>https://AGHILES667.github.io/Hugo-Projet/tags/entreprise/</link>
       <pubDate>Fri, 24 Nov 2023 14:35:44 +0100</pubDate>
-      
       <guid>https://AGHILES667.github.io/Hugo-Projet/tags/entreprise/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Technologie</title>
       <link>https://AGHILES667.github.io/Hugo-Projet/tags/technologie/</link>
       <pubDate>Fri, 24 Nov 2023 14:35:44 +0100</pubDate>
-      
       <guid>https://AGHILES667.github.io/Hugo-Projet/tags/technologie/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Web</title>
       <link>https://AGHILES667.github.io/Hugo-Projet/tags/web/</link>
       <pubDate>Fri, 24 Nov 2023 14:35:44 +0100</pubDate>
-      
       <guid>https://AGHILES667.github.io/Hugo-Projet/tags/web/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
