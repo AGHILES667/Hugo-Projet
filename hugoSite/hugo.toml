@@ -1,4 +1,4 @@
-baseURL = 'https://AGHILES667.github.io/Hugo-Projet/'
+baseURL = 'https://aghiles667.github.io/Hugo-Projet/'
 languageCode = 'en-us'
 title = "Aghiles's Website"
 theme = 'PaperMod'
